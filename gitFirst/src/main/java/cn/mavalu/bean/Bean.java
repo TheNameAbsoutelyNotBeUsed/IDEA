@@ -6,5 +6,6 @@ package cn.mavalu.bean;
  */
 public class Bean {
 
+  private int bean;
 
 }
